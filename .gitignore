@@ -1,5 +1,7 @@
+### These ones don't work ###
+"/Users/roger/Desktop/Bedside Pile/School/SPS/SP2273 Working on Interdisciplinary Science, Pythonically/learning-portfolio-Roger-zyj/Testing/*"
+
+### These ones work ###
+Testing/
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
-
-
-"/Users/roger/Desktop/Bedside Pile/School/SPS/SP2273 Working on Interdisciplinary Science, Pythonically/learning-portfolio-Roger-zyj/Testing/*"
